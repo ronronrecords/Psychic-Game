@@ -2,13 +2,11 @@ var letters = ["u", "c", "i",]
 
 var rand = letters[Math.floor(Math.random() * letters.length)];
 
-function promptMe(){
-    var userAdjective = prompt("Please provide a Letter");
-    if (userAdjective == randGen);
-    alert ("Your Abilities Amaze Me");
-}
+function promptMe() {
+    var userAdjective = prompt("Please Provide a Letter");
 
-function randGen(){
-    var rand = letters[Math.floor(Math.random() * letters.length)];
-    console.log();
+    if (promptMe == U) { 
+        alert("You Amaze Me!");
+
+    }
 }
