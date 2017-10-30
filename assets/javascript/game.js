@@ -11,7 +11,7 @@ function promptMe() {
     var notExists = (letters.indexOf(userAdjective) > -1); //false
 
     if (exists == true) {
-        alert("Your Talents Amaze Me!");
+        alert("★★★ Your Talents Amaze Me ★★★");
     }
     else {
         alert("You Are A Mere Mortal!");

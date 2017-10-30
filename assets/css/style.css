@@ -1,3 +1,6 @@
-.guess {
-    position: right 50%;
+.prompt  {
+    width: !important 300px;
+    height: !important 500px;
+    background: !important black;
+    color: !important #FFA500;
 }
