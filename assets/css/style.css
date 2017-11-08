@@ -1,6 +1,11 @@
-.prompt  {
-    width: !important 300px;
-    height: !important 500px;
-    background: !important black;
-    color: !important #FFA500;
+.scoreBoard {
+    border: solid;
+    border-color: black;
+    float: right;
+}
+
+.uci {
+    display: block;
+    margin: auto;
+    width: 40%;
 }
